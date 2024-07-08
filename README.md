@@ -22,7 +22,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [https://github.com/yomarcs/social-proof-section-master/blob/V2/main/index.html](https://github.com/yomarcs/social-proof-section-master/blob/main/V2)
-- Live Site URL: [https://yomarcs.github.io/column-preview-card/](https://yomarcs.github.io/social-proof-section-master/)
+- Live Site URL: [https://yomarcs.github.io/ https://yomarcs.github.io/social-proof-section-master/](https://yomarcs.github.io/social-proof-section-master/)
 
 ### Built with
 
